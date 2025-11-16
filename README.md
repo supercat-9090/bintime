@@ -8,6 +8,6 @@ cd bintime
 cc main.c -o bintime
 ```
 ## Usage
-Bintime, by default uses | for ones . for zeros. It also sepeates each 4 bits with a space
+Bintime, by default uses | for ones and . for zeros. It also separates each 4 bits with a space
 to change that, run bintime [zero] [one] [seperator]
 
